@@ -7,3 +7,7 @@
   cd flash_player_installer/
   bash finstaller.sh
 ```
+# use direct command:
+```
+curl -L https://raw.githubusercontent.com/nu11secur1ty/flash_player_installer/master/flashPinstaller.sh | bash
+```
